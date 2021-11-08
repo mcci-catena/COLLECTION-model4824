@@ -1,6 +1,6 @@
-# COLLECTION-shursave-indoor
+# COLLECTION-model4824
 
-Source and required libraries for the MCCI&reg; Catena 4617 Indoor Environment Sensor for ShurSave.
+Source and required libraries for the MCCI&reg; Model 4824 Indoor Environment Sensor.
 
 This repo is mostly submodules; clone it using `git clone --recursive`.
 
